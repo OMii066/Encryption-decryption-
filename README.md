@@ -12,11 +12,11 @@ This is a simple Python script to **encrypt and decrypt any file** using symmetr
 
 1. Install cryptography:
 ```bash
-pip install cryptography
+pip install cryptography '''
 
 2. Run the script:
 '''bash
-python file_encryptor.py
+python file_encryptor.py '''
 
 Menu Options:
 
