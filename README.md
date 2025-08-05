@@ -19,6 +19,10 @@ pip install cryptography
 ```bash
 python file_encryptor.py
 ```
+
+
+---
+
 Menu Options:
 
 1: Generate a key (saves as key.key)
